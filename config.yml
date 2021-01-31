@@ -57,7 +57,7 @@ languages:
                   weight: 20
                 - name: About
                   url: about/
-                  weight: 20
+                  weight: 30
                 
                 
  
