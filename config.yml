@@ -145,6 +145,6 @@ menu:
         - identifier: about
           url: /about/
           weight: 30
- 	  - identifier: site
+        - identifier: site
           url: /site/
           weight: 30
